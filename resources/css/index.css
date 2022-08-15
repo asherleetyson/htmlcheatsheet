@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.h2-heading {
+    color:purple;
+    text-align:center;
+}
+
+#first-table {
+    border: 1px solid purple;
+    margin: 0 auto;
+}
+
+#second-table {
+    border: 1px solid purple;
+    margin: 0 auto;
+}
+
+.table-header-background {
+    background-color: pink;
+}
+
+body {
+    background-color: lightgrey;
+}
